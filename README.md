@@ -2,6 +2,8 @@
 
 *Bachelor's Thesis in Mathematics · Universitat de València · 2025–2026*
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23474042.svg)](https://doi.org/10.5281/zenodo.23474042)
+
 **[Read the thesis (PDF)](Pablo-Ramon-Muro_BSc-Thesis-Mathematics.pdf)** · **[Defence slides (PDF)](Pablo-Ramon-Muro_BSc-Thesis-Mathematics_Slides.pdf)** · both in Spanish
 
 MATLAB code for my Bachelor's Thesis (*Trabajo de Fin de Grado*) in Mathematics at the Universitat de València.
