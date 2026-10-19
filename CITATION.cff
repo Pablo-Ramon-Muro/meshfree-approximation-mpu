@@ -9,6 +9,6 @@ authors:
     affiliation: Universitat de València
 repository-code: "https://github.com/Pablo-Ramon-Muro/meshfree-approximation-mpu"
 license: MIT
-version: v1.0.0
+version: v1.0.1
 date-released: "2026-10-19"
 doi: 10.5281/zenodo.23474042
