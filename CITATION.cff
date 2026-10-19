@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+title: "Approximation Methods and Applications — thesis, slides and code"
+message: "If you use this code, please cite it using the metadata in this file."
+type: software
+authors:
+  - given-names: Pablo
+    family-names: Ramón Muro
+    email: pramonmuro@gmail.com
+    affiliation: Universitat de València
+repository-code: "https://github.com/Pablo-Ramon-Muro/meshfree-approximation-mpu"
+license: MIT
+version: v1.0.0
+date-released: "2026-10-19"
+doi: 10.5281/zenodo.23474042
